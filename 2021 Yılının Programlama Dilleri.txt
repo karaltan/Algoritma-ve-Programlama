@@ -1,0 +1,15 @@
+2021 Yılının Programlama Dilleri
+
+Coding Dojo’ya göre, işverenlerin 2021’de iş ilanlarında aradıkları en iyi 10 programlama dili:
+
+Python (70.497 dünya çapında iş ilanı)
+SQL (69.033)
+Java (59.369)
+R (55,978)
+Visual Basic (54.253)
+JavaScript (49.724)
+C++ (35.034)
+C# (27,525)
+Objective C (25.082)
+Ruby (13.279)
+Kaynak: https://evieplus.academy/news-detail/2021-yilinda-yazilim-uzmanlarinin-bilmesi-gereken-temel-10-programlama-dili-1850
