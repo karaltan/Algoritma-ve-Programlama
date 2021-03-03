@@ -4,7 +4,11 @@ Algoritma Nedir?
 
 Temelde algoritmalar, yararlı bir şey yapmak veya bir sorunu çözmek için adım adım izlenen bir dizi talimattır. 
 Diğer bir deyişler algoritma, günlük hayatta yapacağımız işler için hazırladığımız planların, programlama dillerindeki karşılığıdır. 
-Örneğin kek yapmak için kek tarifini günlük hayatta uyguladığımız küçük bir algoritma olarak düşünebilirsiniz.
+Örneğin kek yapmak için kek tarifini günlük hayatta uyguladığımız küçük bir algoritma olarak düşünebilirsiniz...
+
+Algoritma Tasarımı
+Bir problemin çözülmesi için öncelikle algoritmanın tasarlanması gerektiğinin öneminden yukarıda bahsekmiştik. Algoritmalar sıralı adımlardan oluşurlar. Her bir adım alt alta yazılmalı ve yukarıdan aşağı doğru ilerlemelidir. İlk adım Başla adımı son adıma ise Bitti adımıdır ve bu adımda program sona erer.
+Algoritmaları çeşitli şekillerde ifade edebiliriz. Bu çeşitleri birazdan görücez fakat ifade şekli nasıl olursa olsun, algoritma daima özdeş ve kararlı olmalıdır...
 
 Haydi bu harika yazının devamını kaynağından okuyalım.
 
