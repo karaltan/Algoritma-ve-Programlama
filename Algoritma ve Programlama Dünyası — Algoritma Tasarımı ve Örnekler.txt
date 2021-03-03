@@ -1,0 +1,11 @@
+Algoritma ve Programlama Dünyası — Algoritma Tasarımı ve Örnekler
+
+Algoritma Nedir?
+
+Temelde algoritmalar, yararlı bir şey yapmak veya bir sorunu çözmek için adım adım izlenen bir dizi talimattır. 
+Diğer bir deyişler algoritma, günlük hayatta yapacağımız işler için hazırladığımız planların, programlama dillerindeki karşılığıdır. 
+Örneğin kek yapmak için kek tarifini günlük hayatta uyguladığımız küçük bir algoritma olarak düşünebilirsiniz.
+
+Haydi bu harika yazının devamını kaynağından okuyalım.
+
+Kaynak: https://medium.com/kodcular/algoritma-ve-programlama-d%C3%BCnyas%C4%B1-temel-terimler-ve-matematiksel-operat%C3%B6rler-a4ed357a14ec
