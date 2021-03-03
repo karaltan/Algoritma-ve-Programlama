@@ -1,0 +1,6 @@
+Algoritmanın Önemi
+
+Bir yazılım projesine başlarken hemen oturup kodu yazmaya başlamadan önce yapılması gereken ilk şey ne tür bir algoritma tasarlayacağını düşünmektir. Bu sebeple, programlamaya başlamak isteyen kişilerin herhangi bir programlama dilini öğrenmeden önce kesinlikle algoritma tasarlama teknikleri konusunda kendisini eğitmelidir. Eğer bir problemin çözümünün algoritması tasarlandı ise bu problem herhangi bir programlama dili ile kolayca çözülebilir. Bunun için algoritma mantığını anlamanız, herhangi bir programlama dilinde kendinizi eğitmek için yeterlidir.
+
+Haydi bu harika yazının devamını kaynağından okuyalım.
+Kaynak: https://link.medium.com/d8by1ZCjSdb
