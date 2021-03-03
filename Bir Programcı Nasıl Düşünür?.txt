@@ -1,0 +1,13 @@
+Bir Programcı Nasıl Düşünür?
+
+Bir programcı gibi düşünmenin ne anlama geldiğini sen de merak etmişsindir, bu nasıl yapılıyor?
+
+Aslında konu, programlamanın, problem çözmenin daha verimli bir yolu olduğu hakkındadır.
+
+Bu yazıda amacım bu yolu size göstermektir.
+
+Sonunda, daha iyi bir problem çözücü olmak için neleri bilmen gerektiğini öğreneceksin.
+
+Haydi bu harika yazının devamını kaynağından okuyalım.
+
+Kaynak: http://www.salihbaltali.com/bir-programci-nasil-dusunur-problem-cozme-dersleri/
